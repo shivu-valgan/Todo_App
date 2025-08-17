@@ -31,4 +31,11 @@ git clone https://github.com/your-username/todo-app.git
 cd todo-app
 npm install
 npm start
+```
+## Usage
 
+- Go to the Add Todo page or section.
+- Fill in the Title and Description fields.
+- Click Save ToDo to add a task.
+- On the Home page:
+    Click Delete to remove a todo.
